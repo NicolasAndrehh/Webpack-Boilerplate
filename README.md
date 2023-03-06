@@ -15,14 +15,13 @@
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
-  - [Loom Walkthrough](#loom-walkthrough)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
+  - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -32,10 +31,10 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Webpack] <a name="about-project"></a>
+# 📖 Webpack <a name="about-project"></a>
 
 
-**[Webpack]** project is about setting up a webpack boilerplate.
+**Webpack** project is about setting up a webpack boilerplate.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -123,7 +122,9 @@ Install this project with:
 
 To run the project, execute the following command:
 
-- This project doesn't need any command to run
+```sh
+  npm start
+```
 
 ### Run tests
 
@@ -157,7 +158,6 @@ You can deploy this project using:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-
 - [ ] **[Improve UI design]**
 
 <p align="right"><a href="#readme-top">Back to top</a></p>
@@ -176,7 +176,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project you can share it to other people!
+If you like this project you can give it a star!
 
 <p align="right"><a href="#readme-top">Back to top</a></p>
 
